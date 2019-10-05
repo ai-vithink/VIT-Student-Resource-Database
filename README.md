@@ -12,7 +12,7 @@ This is an open-source student resource database which enlists all courses , the
   * ### [SMBS](#smbs)
 
 
-<br /><br /><br />
+<br /><br /><br /><br />
 ## SENSE 
    * ### [ECM](#ecm)
    * ### [ECE](#ece)
@@ -36,8 +36,8 @@ This is an open-source student resource database which enlists all courses , the
    * ### [MECH](#mech)
    * ### [CIVIL](#civil)
 
-
-
+<br />
+<br /><br /><br /><br /><br /><br />
 
 
 
