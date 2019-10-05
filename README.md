@@ -4,9 +4,7 @@
 
 # VIT-Student-Resource-Database
 This is an open-source student resource database which enlists all courses , their study resources and student feedack. Contribute to Open-Source !!!
-
-
-
+<br /><br />
 ## SCHOOLS
   * ### [SENSE](#sense)
   * ### [SCSE](#scse)
@@ -14,30 +12,29 @@ This is an open-source student resource database which enlists all courses , the
   * ### [SMBS](#smbs)
 
 
-
-
+<br /><br /><br />
 ## SENSE 
-   * ### [ECM]()
-   * ### [ECE]()
+   * ### [ECM](#ecm)
+   * ### [ECE](#ece)
 
 
 
-
+<br /><br /><br />
 ## SCSE
-   * ### [CSE]()
+   * ### [CSE](#cse)
    
    
 
-
+<br /><br /><br />
 ## SELECT
-   * ### [EEE]()
+   * ### [EEE](#eee)
 
 
 
-
+<br /><br /><br />
 ## SMBS
-   * ### [MECH]()
-   * ### [CIVIL]()
+   * ### [MECH](#mech)
+   * ### [CIVIL](#civil)
 
 
 
