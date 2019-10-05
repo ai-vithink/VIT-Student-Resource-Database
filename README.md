@@ -31,7 +31,7 @@ This is an open-source student resource database which enlists all courses , the
 
 
 
-<br /><br /><br />
+<br /><br />
 ## SMBS
    * ### [MECH](#mech)
    * ### [CIVIL](#civil)
