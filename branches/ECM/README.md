@@ -2,6 +2,7 @@
 <br /><br /><br />
 <!-- add better intro-->
 Stands for Electronics and Computer Engineering , amongst the most happening branch of VITCC.
+GOTO : [Seniors Notes to ECM Freshmen](#notes-to-ecm-freshmen)
 
 
 <br /><br /><br /><br /><br />
@@ -57,3 +58,21 @@ Stands for Electronics and Computer Engineering , amongst the most happening bra
    * #### [CSE2008 Network Security]()
    
    
+<br /><br /><br /><br /><br />
+## Notes To ECM Freshmen
+
+
+<!-- add notes here  
+  Format UL  : *  " Quote/Note " ...  - <Name> 
+-- >
+
+
+
+
+
+
+
+
+
+
+
