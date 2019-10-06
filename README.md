@@ -1,5 +1,5 @@
 <p align = "center">
-<img src = "/images/VIThink_Logo.png" width ="50%" height ="50%">
+<img src = "images/VIThink_Logo.png" width ="50%" height ="50%">
 </p>
 
 # VIT-Student-Resource-Database
