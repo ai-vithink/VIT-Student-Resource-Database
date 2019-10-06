@@ -61,6 +61,7 @@ GOTO : [Seniors Notes to ECM Freshmen](#notes-to-ecm-freshmen)
 <br /><br /><br /><br /><br />
 ## Notes To ECM Freshmen
 
+* #### Fundamental Rule to stay here - _" Know hardware better than the CS guy and know Software better than the EC guy , but know both"_ - Kunal
 
 <!-- add notes here  
   Format UL  : *  " Quote/Note " ...  - <Name> 
