@@ -1,7 +1,7 @@
 # ECM 
 <br /><br /><br />
 <!-- add better intro-->
-Stands for Electronics and Computer Engineering , amongst the most happening branch of VITCC.
+Stands for Electronics and Computer Engineering , amongst the most happening branch of VITCC.<br />
 GOTO : [Seniors Notes to ECM Freshmen](#notes-to-ecm-freshmen)
 
 
