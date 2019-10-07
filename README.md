@@ -5,6 +5,9 @@
 # VIT-Student-Resource-Database
 This is an open-source student resource database which enlists all courses , their study resources and student feedback. Contribute to Open-Source !!!
 <br /><br />
+[AUTO ADD COURSES - _small script that lets you do just that_ ](https://github.com/ai-vithink/VIT-Student-Resource-Database/blob/master/courses/script.py)
+<br /><br /><br />
+
 ## SCHOOLS
   * ### [SENSE](#sense)
   * ### [SCSE](#scse)
