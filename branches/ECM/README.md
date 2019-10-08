@@ -21,8 +21,8 @@ GOTO : [Seniors Notes to ECM Freshmen](#notes-to-ecm-freshmen)
    * #### [ECM1002 Analysis of Data Structures and Algorithms](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/ECM1002%20Analysis%20of%20Data%20Structures%20and%20Algorithms)
    * #### [ECM2001 Data Communication Networks](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/ECM2001%20Data%20Communication%20Networks)
    * #### [ECE4003 Embedded System Design](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/ECE4003%20Embedded%20System%20Design)
-   * #### [CSE2005 Operating Systems](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/CSE2005 Operating Systems)
-   * #### [MAT2002 Applications of Difference and Differential Equations](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/MAT2002%20Applications%20of%20Difference%20and%20Differential Equations)
+   * #### [CSE2005 Operating Systems](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/CSE2005%20Operating%20Systems)
+   * #### [MAT2002 Applications of Difference and Differential Equations](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/MAT2002%20Applications%20of%20Difference%20and%20Differential%20Equations)
    * #### [MAT3004 Applied Linear Algebra](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/MAT3004%20Applied%20Linear%20Algebra)
    
   
