@@ -8,8 +8,8 @@ GOTO : [Seniors Notes to ECM Freshmen](#notes-to-ecm-freshmen)
 <br /><br /><br /><br /><br />
 ## Program Cores
 <!-- add list of courses -->
-   * #### [ECM1001 Circuit Theory]()
-   * #### [ECE1002 Semiconductor Devices and Circuits]()
+   * #### [ECM1001 Circuit Theory](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/ECM1001%20Circuit%20Theory)
+   * #### [ECE1002 Semiconductor Devices and Circuits](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/ECM1001%20Circuit%20Theory)
    * #### [ECE1004 Signals and Systems]()
    * #### [ECE2002 Analog Electronic Circuits]()
    * #### [ECE2003 Digital Logic Design]()
