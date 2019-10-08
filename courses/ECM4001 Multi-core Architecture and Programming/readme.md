@@ -1,1 +1,1 @@
-"ECM4001 Multi-core Architecture and Programming" 
+# ECM4001 Multi-core Architecture and Programming  
