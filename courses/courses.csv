@@ -1,65 +1,45 @@
 Courses
-ECE1001 Fundamentals of Electrical Circuits
-ECE1002 Semiconductor Devices and Circuits
-ECE1003 Electromagnetic Field Theory
-ECE1004 Signals and Systems
-ECE1005 Sensors and Instrumentation
-ECE2001 Network Theory
-ECE2002 Analog Electronic Circuits
-ECE2003 Digital Logic Design
-ECE2004 Transmission lines and Waveguides
-ECE2005 Probability Theory and Random Processes
-ECE2006 Digital Signal Processing
-ECE3001 Analog Communication Systems
-ECE3002 VLSI System Design
-ECE3003 Microcontroller and its applications
-ECE4001 Digital Communication Systems
+EEE1002 Electric Circuits
+EEE1003 Electrical Workshop
+EEE1004 Engineering Electromagnetics
+EEE1005 Signals and Systems
+EEE2001 Network Theory
+EEE2002 Semiconductor Devices and Circuits
+EEE2003 Electromechanical Energy Conversion
+EEE2004 Measurement and Instrumentation
+EEE2005 Digital Signal Processing
+EEE3001 Control Systems
+EEE3002 Analog and Digital Circuits
+EEE3003 Power System Engineering
+EEE3004 Power Electronics and Drives
+EEE4001 Microprocessor and Microcontroller
 MAT2002 Applications of Differential and Difference Equations
-MAT3004 Applied Linear Algebra
-ECE3099 Industrial Internship
-ECE1006 Introduction to Nano Science and Nano Technology
-ECE1007 Optoelectronics
-ECE1008 Electronics Hardware Trouble Shooting
-ECE2008 Robotics and Automation
-ECE2010 Control Systems
-PHY1002 Material Science
-ECE3004 Computer Organization and Architectures
-ECE4002 Advanced Microcontrollers
-ECE4003 Embedded System Design
-ECE4004 Embedded C and Linux
-CSE2003 Data Structures and Algorithms
-ECE2012 Operating Systems
-MAT3004 Applied Numerical Methods
-ECE3005 Digital Image Processing
-ECE3009 Neural Networks and Fuzzy Control
-ECE3010 Antennas and wave propagation
-ECE3011 Microwave Engineering
-ECE4005 Optical Communication and Networks
-ECE4007 Information Theory and Coding
-ECE4008 Computer Communication
-ECE4009 Wireless and Mobile communication
-ECE4010 Satellite Communication
-ECE4011 Wireless Sensor Networks
-ECE4013 Cryptography and Network Security
-ECE3013 Linear Integrated Circuits
-ECE3999 Tech Answers for Real world Problems (TARP)
-CSE1001 Problem solving and programming
-CSE1002 Problem solving with Object Oriented Programming
-ECE4098 Comprehensive Examination
-PHY1999 Introduction to Innovative Projects
-CHY1002 Environmental Science
-MAT1011 Calculus for Engineers
-MAT2001 Statistics for Engineers
-PHY1001 Engineering Physics
-CHY1001 Engineering Chemistry
-MGT1022 Lean Start-up Management
-STS1001 Soft Skills
-STS1002 Soft Skills
-STS2001 Soft Skills
-STS2002 Soft Skills
-STS3001 Soft Skills
-STS3002 Soft Skills
-FLC4097 Foreign Language Course basket
-ENG1011 English for Engineers
-HUM1021 Ethics and Values
-ECE4099 Co-op / Capstone Project
+MAT3003 Complex Variables and Partial Differential Equations
+MAT3005 Applied Numerical Methods
+EEE1018 Nanotechnology Fundamentals and its Applications
+EEE1020 Engineering Optimization
+EEE3005 Design of Electrical Apparatus
+EEE4002 Power System Protection and Switchgear
+EEE4007 Energy Management and SCADA
+EEE4012 Renewable Energy Sources
+EEE4013 Smart Grid
+EEE4016 Electric Vehicles
+EEE4017 Industrial Drives and Automation
+EEE4018 Advanced Control Theory
+EEE4026 Digital Control Systems
+PHY1002 Materials Science
+EEE1007 Neural Network and Fuzzy Control
+EEE4003 Generation and Utilization of Electrical Energy
+EEE4005 Power System Operation and Control
+EEE4009 FACTS and HVDC
+EEE4020 Embedded System Design
+EEE1008 Bio-Medical Instrumentation
+EEE3006 Special Electrical Machines
+EEE4004 Distributed Generation and Microgrids
+EEE4010 Power Quality
+EEE4028 VLSI Design
+MEE1006 Applied Mechanics and Thermal Engineering
+EEE4008 High Voltage Engineering
+EEE4015 Power Converter Analysis and Design
+EEE4014 Switched Mode Power Conversion
+EEE3007 Finite Element for Electrical Machines 
