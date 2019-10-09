@@ -33,7 +33,7 @@ GOTO : [Seniors Notes to EEE Freshmen](#notes-to-eee-freshmen)
   
  * #### [EEE3004 Power Electronics and Drives](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/EEE3004%20Power%20Electronics%20and%20Drives)
   
- * #### [EEE4001 Microprocessor and Microcontroller](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/EEE4001%20Microprocessor%20and%20Microcontroler)
+ * #### [EEE4001 Microprocessor and Microcontroller](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/EEE4001%20Microprocessor%20and%20Microcontroller)
   
  * #### [MAT2002 Applications of Differential and Difference Equations](https://github.com/ai-vithink/VIT-Student-Resource-Database/tree/master/courses/MAT2002%20Applications%20of%20Differential%20and%20Difference%20Equations)
   
