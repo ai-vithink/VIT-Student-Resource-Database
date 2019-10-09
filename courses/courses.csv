@@ -1,45 +1,58 @@
 Courses
-EEE1002 Electric Circuits
-EEE1003 Electrical Workshop
-EEE1004 Engineering Electromagnetics
-EEE1005 Signals and Systems
-EEE2001 Network Theory
-EEE2002 Semiconductor Devices and Circuits
-EEE2003 Electromechanical Energy Conversion
-EEE2004 Measurement and Instrumentation
-EEE2005 Digital Signal Processing
-EEE3001 Control Systems
-EEE3002 Analog and Digital Circuits
-EEE3003 Power System Engineering
-EEE3004 Power Electronics and Drives
-EEE4001 Microprocessor and Microcontroller
+EEE1001 Basic Electrical & Electronics Engineering
 MAT2002 Applications of Differential and Difference Equations
-MAT3003 Complex Variables and Partial Differential Equations
+MAT3003 Complex variables and Partial Differential Equations
 MAT3005 Applied Numerical Methods
-EEE1018 Nanotechnology Fundamentals and its Applications
-EEE1020 Engineering Optimization
-EEE3005 Design of Electrical Apparatus
-EEE4002 Power System Protection and Switchgear
-EEE4007 Energy Management and SCADA
-EEE4012 Renewable Energy Sources
-EEE4013 Smart Grid
-EEE4016 Electric Vehicles
-EEE4017 Industrial Drives and Automation
-EEE4018 Advanced Control Theory
-EEE4026 Digital Control Systems
-PHY1002 Materials Science
-EEE1007 Neural Network and Fuzzy Control
-EEE4003 Generation and Utilization of Electrical Energy
-EEE4005 Power System Operation and Control
-EEE4009 FACTS and HVDC
-EEE4020 Embedded System Design
-EEE1008 Bio-Medical Instrumentation
-EEE3006 Special Electrical Machines
-EEE4004 Distributed Generation and Microgrids
-EEE4010 Power Quality
-EEE4028 VLSI Design
-MEE1006 Applied Mechanics and Thermal Engineering
-EEE4008 High Voltage Engineering
-EEE4015 Power Converter Analysis and Design
-EEE4014 Switched Mode Power Conversion
-EEE3007 Finite Element for Electrical Machines 
+MEE1001 Engineering Drawing
+MEE1002 Engineering Mechanics
+MEE1003 Engineering Thermodynamics
+MEE1004 Fluid Mechanics
+MEE1005 Materials Engineering and Technology
+MEE1007 Manufacturing Processes
+MEE2001 Machine Drawing
+MEE2002 Strength of Materials
+MEE2003 Thermal Engineering Systems
+MEE2004 Mechanics of Machines
+MEE2005 Heat Transfer
+MEE2006 Machining Process and Metrology
+MEE3001 Design of Machine Elements
+MEE1008 MEMS
+MEE1009 New Product Development
+MEE1011 Renewable Energy sources
+MEE1012 Alternative Fuels
+MEE1014 Industrial Engineering and Management
+MEE1015 Total quality management and Reliability
+MEE1016 Lean Enterprises and New Manufacturing Technology
+MEE1017 New Venture Planning and Management
+MEE1018 Facilities and Process Planning
+MEE1027 Instrumentation and Control Engineering
+MEE1030 Robotics
+MEE2007 CAD/CAM
+MEE2008 Product Design for Manufacturing
+MEE2009 Tribology
+MEE2010 Design of Composite Materials
+MEE2011 Welding Engineering
+MEE2012 Manufacturing Automation
+MEE2013 Modelling and simulation of Manufacturing Systems
+MEE2014 Metal Casting Technology
+MEE2015 Non-Destructive Testing
+MEE2016 Rapid Manufacturing Technologies
+MEE2019 Materials Characterization Techniques
+MEE2020 Metal Forming Theory and Practice
+MEE2022 Power Plant Engineering
+MEE2023 Gas dynamics and Jet propulsion
+MEE2025 Fluid Power systems
+MEE2026 Turbomachines
+MEE3002 Finite Element Analysis
+MEE3003 Engineering Failure Analysis
+MEE3004 Internal Combustion Engines
+MEE3005 Refrigeration and Air Conditioning
+MEE3006 Automobile Engineering
+MEE3008 Mechanical Vibrations
+MEE4001 Tool design
+MEE4002 Advanced Machining Processes
+MEE4003 Micro and Nano Machining
+MEE4005 Surface Engineering
+MEE4006 Computational Fluid Dynamics
+MEE4007 Design of Transmission Systems
+MEE1024 Operations Research
