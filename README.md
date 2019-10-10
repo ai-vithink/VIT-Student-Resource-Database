@@ -24,7 +24,7 @@ This is an open-source student resource database which enlists all courses , the
 
 <br /><br /><br />
 ## SCSE
-   * ### [CSE](#cse)
+   * ### [CSE](branches/CSE/README.md)
    
    
 
