@@ -4,7 +4,7 @@ import pandas as pd
 # add new courses to the csv
 data = pd.read_csv("courses.csv")
 
-path = "D:\ECM\code_college_notes\cs_learning\moocs_tutorials\personal_projects\VIT-Student-Resource-Database\courses"
+path = "C:\WINDOWS\system32\VIT-Student-Resource-Database"
 
 for course in data["Courses"]:
     cname = '# ' + course + ' '
