@@ -30,7 +30,7 @@ This is an open-source student resource database which enlists all courses , the
 
 <br /><br /><br />
 ## SELECT
-   * ### [EEE](#eee)
+   * ### [EEE](branches/EEE/README.md)
 
 
 
